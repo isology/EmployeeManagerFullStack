@@ -1,5 +1,5 @@
 !!!!
-You need node_modules to run this project. (Githun does not allow me to upload node_modules because there is too many files.)
+You need node_modules to run this project. (Github does not allow me to upload node_modules because there is too many files.)
 
 
 # React + Vite
